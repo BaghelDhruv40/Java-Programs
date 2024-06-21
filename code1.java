@@ -12,7 +12,7 @@ public class code1 {
 }
 
 class DB{
-    String name= "Dhruv";
+    String name= "Dhruv Baghel";
     int age = 21;
 
     public void work(){
